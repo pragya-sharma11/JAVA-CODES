@@ -2,7 +2,7 @@
  *   Author: Pragya Sharma
  *   Date: 27/07/20
  *   Time: 2:38 PM
- *   File: Lab3Task.java
+ *   File: ATMPin.java
  */
 import java.util.Scanner;
 
