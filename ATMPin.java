@@ -1,3 +1,9 @@
+/*   Created by IntelliJ IDEA.
+ *   Author: Pragya Sharma
+ *   Date: 27/07/20
+ *   Time: 2:38 PM
+ *   File: Lab3Task.java
+ */
 import java.util.Scanner;
 
 //code for atm machine!!!
