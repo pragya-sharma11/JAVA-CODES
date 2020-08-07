@@ -4,8 +4,6 @@
  *   Time: 6:37 PM
  *   File: CommaSeperatedInput.java
  */
-package labWork;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
