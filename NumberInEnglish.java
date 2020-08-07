@@ -1,3 +1,9 @@
+/*   Created by IntelliJ IDEA.
+ *   Author: Pragya Sharma
+ *   Date: 05/07/20
+ *   Time: 6:15 PM
+ *   File: NumberInEnglish.java
+ */
 import java.util.Scanner;
 
 public class NumberInEnglish {
