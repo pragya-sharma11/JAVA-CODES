@@ -4,7 +4,6 @@
  * Date :20-July-2020
  * Time:10:41 pm
  * File Name: DatatypeExtremeValues */
-package labWork;
 
 public class DatatypeExtremeValues {
     public static void main(String[] args) {
