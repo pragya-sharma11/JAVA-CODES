@@ -2,7 +2,7 @@
  *   Author: Pragya Sharma
  *   Date: 01/08/20
  *   Time: 4:30 AM
- *   File: Lab4Task.java
+ *   File: OnlineTicketBooking.java
  */
 import java.util.Scanner;
 
