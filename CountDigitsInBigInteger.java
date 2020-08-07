@@ -4,8 +4,6 @@
  *   Time: 7:02 PM
  *   File: RandomDetails.java
  */
-package labWork;
-
 import java.math.BigInteger;
 import java.util.Scanner;
 
