@@ -2,7 +2,7 @@
  *   Author: Pragya Sharma
  *   Date: 04/08/20
  *   Time: 12:30 PM
- *   File: Lab5Task.java
+ *   File: OTPForCustomers.java
  */
 /**
  * Create a program in Java to create OTP (One-Time Passwords) for a customer service.
