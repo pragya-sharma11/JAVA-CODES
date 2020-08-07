@@ -1,3 +1,9 @@
+/*   Created by IntelliJ IDEA.
+ *   Author: Pragya Sharma
+ *   Date: 04/08/20
+ *   Time: 6:15 PM
+ *   File: ForLoop.java
+ */
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
