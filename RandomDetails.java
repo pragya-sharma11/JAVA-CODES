@@ -4,8 +4,6 @@
  *   Time: 6:12 PM
  *   File: RandomDetails.java
  */
-package labWork;
-
 public class RandomDetails {
     public static void main(String[] args) {
         String[] namesOfStudents = {"Kritika Sharma", "Komal Bindal", "Pragya Sharma", "Ishank Sharma", "Tanu Bharadwaj"};
