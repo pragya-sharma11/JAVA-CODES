@@ -4,8 +4,8 @@
  * Date :21-July-2020
  * Time:8:30 pm
  * File Name: QueueCodeInArray */
-package labWork;
 import java.util.Scanner;
+
 class QueueCodeInArray {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
